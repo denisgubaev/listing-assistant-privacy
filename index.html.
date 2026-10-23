@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Listing assistant — Privacy notice</title>
+</head>
+<body>
+  <h1>Listing assistant</h1>
+  <h2>Privacy notice</h2>
+
+  <p>Listing assistant is a private tool operated by Denis Gubaev
+  for his own eBay account. It does not accept other users.</p>
+
+  <p>The application stores the connected eBay user ID, username
+  and an encrypted refresh token in Cloudflare D1. Access tokens
+  are used temporarily in memory. It does not store the eBay
+  account password. Listing data, when added, is stored to
+  support the owner's listing workflow.</p>
+
+  <p>eBay and Cloudflare process data necessary for authentication,
+  hosting and database services. GitHub Pages hosts this public
+  privacy notice. Infrastructure logs and backups may be retained
+  under each provider's settings and policies.</p>
+
+  <p>The owner can delete locally stored account and draft data
+  using the application's protected deletion control.
+  Verified eBay account-deletion notifications also delete that
+  user's account and draft records from the application's active
+  database. Access can additionally be revoked in the eBay
+  account's third-party application settings.</p>
+
+  <p>This private tool does not sell account data.
+  This version provides account connection only.</p>
+</body>
+</html>
